@@ -520,6 +520,9 @@ footer {
 
 
 @media (max-width: 480px) {
+    nav{
+        display: none;
+    }
     .profile-section img {
         width: 100px;
         height: 100px;
